@@ -1,0 +1,31 @@
+═══════════════════════════════════════════════════════════════
+  INICIO SIMPLE - Kelly App v2.0
+═══════════════════════════════════════════════════════════════
+
+TERMINAL 1 - BACKEND:
+───────────────────────────────────────────────────────────────
+
+cd "/Users/rodrigobermudez/projects/new Kelly App/kelly-app-v2/backend"
+source venv/bin/activate
+python main.py
+
+(Espera a ver: "Uvicorn running on http://0.0.0.0:3026")
+
+
+TERMINAL 2 - FRONTEND (NUEVA TERMINAL):
+───────────────────────────────────────────────────────────────
+
+cd "/Users/rodrigobermudez/projects/new Kelly App/kelly-app-v2/frontend"
+npm run dev
+
+(Espera a ver: "Local: http://localhost:3025/")
+
+
+ABRIR EN NAVEGADOR:
+───────────────────────────────────────────────────────────────
+
+http://localhost:3025
+
+═══════════════════════════════════════════════════════════════
+
+

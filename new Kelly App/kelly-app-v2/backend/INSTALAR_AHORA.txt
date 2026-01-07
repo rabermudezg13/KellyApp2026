@@ -1,0 +1,15 @@
+═══════════════════════════════════════════════════════════════
+  INSTALAR DEPENDENCIA FALTANTE
+═══════════════════════════════════════════════════════════════
+
+Ejecuta este comando en tu terminal:
+
+pip install email-validator
+
+O si prefieres instalar todo pydantic con email:
+
+pip install 'pydantic[email]'
+
+═══════════════════════════════════════════════════════════════
+
+

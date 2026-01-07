@@ -1,0 +1,15 @@
+═══════════════════════════════════════════════════════════════
+  INSTALAR DEPENDENCIAS DE AUTENTICACIÓN
+═══════════════════════════════════════════════════════════════
+
+En tu terminal (con venv activado), ejecuta:
+
+pip install passlib[bcrypt] python-jose[cryptography]
+
+Luego reinicia el servidor backend:
+
+python main.py
+
+═══════════════════════════════════════════════════════════════
+
+
